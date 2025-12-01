@@ -13,3 +13,5 @@ yarn.lock
 package-lock.json
 
 
+.claude/settings.local.json
+tsconfig.tsbuildinfo
